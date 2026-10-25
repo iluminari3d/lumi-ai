@@ -1,6 +1,8 @@
 name = "lumi-ai"
 main = "src/index.js"
 compatibility_date = "2026-10-01"
+# Keep variables added in the Cloudflare dashboard when a new version is deployed from GitHub.
+keep_vars = true
 
 # Rebuild the catalog every night at 03:00 UTC.
 [triggers]
