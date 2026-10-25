@@ -20,7 +20,7 @@ export default {
     if (request.method === 'OPTIONS') return new Response(null, { status: 204, headers: cors });
 
     const url = new URL(request.url);
-    if (url.pathname === '/health') return json({ ok: true, catalog: !!(await env.LUMI.get('catalog')) }, 200, cors);
+    if (url.pathname === '/health') return json({ ok: true, key: !!env.ANTHROPIC_API_KEY, catalog: !!(await env.LUMI.get('catalog')) }, 200, cors);
     if (url.pathname !== '/chat' || request.method !== 'POST') return json({ error: 'not_found' }, 404, cors);
     if (!allowed.includes(origin)) return json({ error: 'forbidden' }, 403, cors);
 
@@ -58,8 +58,11 @@ export default {
       body: JSON.stringify({ model: env.MODEL || MODEL, max_tokens: MAX_REPLY_TOKENS, system, messages }),
     });
     if (!res.ok) {
-      console.log('anthropic error', res.status, (await res.text()).slice(0, 300));
-      return json({ reply: limitMsg('error') }, 200, cors);
+      const detail = (await res.text()).slice(0, 300);
+      console.log('anthropic error', res.status, detail);
+      let type = '';
+      try { type = JSON.parse(detail).error.type; } catch {}
+      return json({ reply: limitMsg('error'), code: res.status, type }, 200, cors);
     }
     const data = await res.json();
     const reply = (data.content || []).filter((c) => c.type === 'text').map((c) => c.text).join('\n').trim();
