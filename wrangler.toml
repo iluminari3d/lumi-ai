@@ -1,0 +1,19 @@
+name = "lumi-ai"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+
+# Rebuild the catalog every night at 03:00 UTC.
+[triggers]
+crons = ["0 3 * * *"]
+
+# Counters, catalog and the questions for the weekly review.
+# The id is created automatically on the first deploy.
+[[kv_namespaces]]
+binding = "LUMI"
+
+[vars]
+SHOP_URL = "https://www.iluminari3d.com"
+ALLOWED_ORIGINS = "https://www.iluminari3d.com,https://iluminari3d.com,https://i-luminari.myshopify.com"
+PER_IP_DAILY = "40"
+SITE_DAILY = "1500"
+# The API key is NOT here: it is set as a secret in the Cloudflare dashboard (ANTHROPIC_API_KEY).
