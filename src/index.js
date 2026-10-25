@@ -5,7 +5,7 @@ import { RULES } from './rules.js';
 const MODEL = 'claude-haiku-5-5';
 const MAX_TURNS = 12;          // messages kept from the conversation
 const MAX_CHARS = 800;         // per visitor message
-const MAX_REPLY_TOKENS = 450;
+const MAX_REPLY_TOKENS = 800;
 
 export default {
   async fetch(request, env, ctx) {
