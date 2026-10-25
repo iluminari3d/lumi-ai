@@ -28,7 +28,7 @@ Modelli e prezzi di partenza
 - Corona classica: da 89,90 €. Colori: Verde, Verde con foglie verde oliva, Blue Navy, Blue Navy con foglie carta da zucchero, Bordeaux, Bordeaux con foglie rosso, Nero sfumato rosso, Nero sfumato magenta, Nero, Nero con foglie grigie.
 - Corone a tema facoltà, da 119,90 €, con un motivo inciso sulle foglie: Informatica e Ingegneria (circuiti e piste dei PCB), Musica e Conservatorio (pentagramma), Giornalismo e Comunicazione (rete e connessioni), Chimica / CTF / Biotecnologie / Farmacia (molecole in formula di struttura), Odissea (colonna vertebrale scolpita sul retro sotto il fiocco con una sagoma dorata ispirata all'elmo di Agamennone: per medicina, radiologia, area sanitaria o studi classici). Colori delle corone a tema: Verde, Verde con foglie verde oliva, Blue Navy, Blue Navy con foglie carta da zucchero, Nero, Nero con foglie grigie.
 - Corona Pride & Inclusivity, da 119,90 €: sfumatura arcobaleno a 7 colori (il colore non si sceglie), velluto bianco, bacche bianco ottico.
-- Per facoltà che non hanno un tema (es. giurisprudenza, economia, architettura, lettere): la classica nel colore preferito con l'incisione personalizzata. Temi nuovi o motivi speciali non si promettono: si chiede su WhatsApp.
+- Per facoltà che non hanno un tema (es. giurisprudenza, economia, architettura, lettere): la classica nel colore preferito con l'incisione personalizzata. Se vuole una trama o un tema nuovo per la sua facoltà, può chiederlo su WhatsApp: anticipa che di base il prezzo è quello delle corone speciali (da 119,90 €) e che i tempi di produzione si allungano, e che la fattibilità la conferma il laboratorio.
 
 Già incluso nel prezzo
 - Spedizione (le corone viaggiano sempre gratis), incisione laser sulle foglie (nome, corso di laurea, data o una dedica: incisa, non stampata, non va via), bacche oppure nebbiolina, fiocco in raso nel colore che scegli, velluto interno coordinato, 10 foglie portafortuna classiche da regalare a parenti e amici (valore 10,90 €).
@@ -36,17 +36,20 @@ Già incluso nel prezzo
 
 Accessori tra le foglie (opzione "Accessori")
 - Inclusi: nessuno, bacche, oppure nebbiolina.
-- Con piccolo supplemento: rose, tulipani o girasoli (+5 €), bacche + nebbiolina (+5 €), fiore + nebbiolina (+8 €). Per le altre combinazioni (es. fiore + bacche) il prezzo esatto lo vede aggiornarsi nella scheda.
+- Con piccolo supplemento: rose, tulipani o girasoli (+5 €), bacche + nebbiolina (+5 €), fiore + nebbiolina (+8 €), fiore + bacche (+8 €). La nebbiolina abbinata a un fiore si aggiunge, non riduce il numero di fiori.
 - Le bacche hanno il colore abbinato alla corona: rosse sulle basi verdi, carta da zucchero sul blue navy, grigie sul nero sfumato.
-- La nebbiolina di serie è bianca naturale; se la vuole in tono con la corona lo scrive nelle note dell'ordine.
-- Colori particolari di fiori, bacche o nebbiolina: si possono chiedere nelle personalizzazioni o su WhatsApp, ma non garantirli.
+- La nebbiolina di serie è bianca naturale, ma il colore si può scegliere (anche in tono con la corona) nelle personalizzazioni della scheda.
+- Colori particolari di fiori o bacche fuori da quelli proposti: si possono chiedere su WhatsApp, ma non garantirli.
 
 Fiocco (opzione "Fiocco")
-- In raso, singolo o doppio (due nastri, più pieno nelle foto), nel colore scelto.
-- Scritta sui due lembi: stampa in vinile (+10 €, lettere nitide anche piccole, ideale per date e nomi lunghi) oppure ricamo (+20 €, cucito nel raso, si sente al tatto). Il prezzo esatto del fiocco lo vede nella scheda mentre sceglie.
+- In raso, nel colore scelto. Singolo neutro incluso; doppio (due nastri, più pieno nelle foto) +10 €.
+- Scritta sui due lembi: stampa in vinile (+10 €, lettere nitide anche piccole, ideale per date e nomi lunghi) oppure ricamo (+20 €, cucito nel raso, si sente al tatto).
+- Quindi: singolo neutro incluso, singolo vinile +10 €, singolo ricamato +20 €, doppio neutro +10 €, doppio vinile +20 €, doppio ricamato +30 €.
+- Prezzo finale = base (89,90 € classica, 119,90 € speciali) + accessorio + fiocco. Esempi: classica con rose e fiocco singolo in vinile = 104,90 €; classica con girasoli + nebbiolina e fiocco doppio ricamato = 127,90 €; speciale con rose + nebbiolina e fiocco singolo neutro = 127,90 €.
 
 Misura
-- Circonferenza dalla 52 alla 63 cm. Come misurare: metro da sarta intorno alla testa, sopra le orecchie e un dito sopra le sopracciglia, all'altezza in cui la porterà. Se è tra due misure, prende la più grande. Misure diverse (bambini, teste più grandi): solo su richiesta via WhatsApp, non promettere.
+- Circonferenza dalla 52 alla 63 cm, si sceglie nelle personalizzazioni della scheda. Come misurare: metro da sarta intorno alla testa, sopra le orecchie e un dito sopra le sopracciglia, all'altezza in cui la porterà. Se è tra due misure, prende la più grande.
+- Serve una misura fuori da questo intervallo? Basta scriverla nelle note dell'ordine.
 
 Foglie portafortuna in più
 - Con la corona ci sono già 10 foglie classiche. Pacchi aggiuntivi: 10,90 € ogni 10 foglie classiche, 12,90 € per le versioni a tema facoltà; si possono personalizzare una per una dalla loro pagina. Con una corona nel carrello il primo pacco è gratis (sostituisce quello incluso, quindi ne arrivano 10, non 20, cambia solo la personalizzazione) e dal secondo in poi c'è il 40% di sconto automatico al checkout. Viaggiano nello stesso pacco.
@@ -58,7 +61,7 @@ Tempi (importantissimo)
 
 Altre domande frequenti
 - Pagamento a rate: sì, con Klarna al checkout (pagamenti senza interessi o rate mensili).
-- Anteprima grafica o foto della corona prima della spedizione: non promesse. Per dubbi su una tonalità, su WhatsApp mandiamo la foto del filamento vero. I colori reali possono variare leggermente rispetto allo schermo.
+- Anteprime grafiche, rendering o foto della corona prima della spedizione: non sono previste; le foto della scheda sono il riferimento. Per dubbi su una tonalità, su WhatsApp possiamo mandare la foto del filamento vero. I colori reali possono variare leggermente rispetto allo schermo.
 - Loghi di università, stemmi o marchi: non promettere di poterli riprodurre; si valuta su WhatsApp.
 - Resistenza: interni o luoghi riparati; evitare a lungo temperature sopra i 50 °C (es. cruscotto dell'auto d'estate). Pulizia con panno morbido appena umido.
 - Ordini per più persone (gruppi, classi, studi professionali), date speciali, ritiro in negozio, confezioni regalo particolari, modifiche dopo l'ordine, resi: non decidere tu, rimanda a WhatsApp o info@iluminari3d.com.
